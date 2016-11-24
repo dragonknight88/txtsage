@@ -1,2 +1,2 @@
-web: gunicorn textsage.wsgi
+web: gunicorn txtsage.wsgi
 heroku ps:scale web=1
