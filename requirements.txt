@@ -11,3 +11,5 @@ requests==2.12.1
 six==1.10.0
 twilio==3.8.0
 whitenoise==3.2.2
+psycopg2==2.6.1
+
