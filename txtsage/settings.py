@@ -23,7 +23,7 @@ ADMINS = (
 MANAGERS = ADMINS
 
 ALLOWED_HOSTS = [
-  '.textsageone.herokuapp.com'
+  '.txtsage.herokuapp.com'
 ]
 DATABASES = {
     'default': {
